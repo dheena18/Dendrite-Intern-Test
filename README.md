@@ -30,24 +30,25 @@ The pipeline aims to automate the process of training machine learning models fo
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
+    git clone https://github.com/dheena18/Dendrite-Intern-Test
+
 
 2. Navigate to the project directory:
 
-    cd your-repo-name
-    ```
+    cd Dendrite-Intern-Test
+
 
 3. Install the required packages:
 
     pip install -r requirements.txt
-    ```
 
 4. Run the main script:
 
-    python main_script.py
-    ```
+    python -u WithoutPipeline.py
 
+    python -u Withpipeline.py
+   
+## Dont forget to change the path in the python file
 ## Code Structure
 
 - `WithPipeline.py`: The main script where the pipeline for data preprocessing, feature reduction, model training and 
